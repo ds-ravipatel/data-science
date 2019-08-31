@@ -1,0 +1,26 @@
+Supervised Learning has 2 Types -
+1) Regression -
+   X - Independant Variable
+   y - Dependant Variable   
+   y = function(X)
+   
+   Types of Regression Models -
+   a) Simple Regression -
+      -- 1 independant variable
+      -- Linear or Non-linear
+   b) Multiple Regression -
+      -- Multiple Independant Variables
+      -- Linear or Non-linear
+   
+   Below are Regression Algorithms -
+   Ordinal Regression
+   Poissoon Regression
+   Linear, Polynomial, Lasso, Stepwise, Ridge Regression
+   Fast Forest Quantile Regression
+   Bayesian Linear Regression
+   Neural Network Regression
+   Decision forest Regression
+   Boosted decision tree Regression
+   KNN (K-Nearest neighbour)
+
+2) Classification -
