@@ -1,0 +1,16 @@
+Machine Learning Algorithms -
+Two Types 
+A) Supervised Learning Alorithms
+   -- Works on Labeled Data
+   -- Two Types of Supervised Learning
+      i) Classification - process of predicting discrete class labels or categories
+     ii) Regression - Process of predicting continuos values
+
+B) Unsupervised Learning Algorithms
+   -- Works on Unlabeled Data
+   -- Model works on its own to discover information from data
+   -- Unsupervised Techniques
+      i) Clustering
+     ii) Dimension Reduction
+    iii) Density Estimation
+     iv) Market Basket Analysis
